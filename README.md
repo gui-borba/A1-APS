@@ -8,4 +8,4 @@
 
 ## Inspiração 
 
-Esse site foi inspirado nas estéticas do ano 2000 e no anime Urusei Yatsura 
+Esse site foi inspirado nas estéticas do anos 2000 e no anime Urusei Yatsura 
